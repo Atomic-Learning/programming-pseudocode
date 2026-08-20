@@ -2,13 +2,14 @@ Pseudocode is a simplified, human-readable way to describe the steps in an algor
 
 The example below illustrates how pseudocode can be used to outline a simple algorithm that calculates the sum of the first 10 natural numbers:
 
-<pre><code>START
+```
+START
     SET sum TO 0
     FOR i FROM 1 TO 10 DO
         sum = sum + i
     END FOR
     PRINT sum
 END
-</code></pre>
+```
 
 There are no strict rules for writing pseudocode, and it's common to see variations in style. Sometimes these reflect the background of the author or audience, or can be tailored to what is being demonstrated.
